@@ -170,5 +170,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <div align="center">
-  <sub>Built with ❤︎ by <a href="https://github.com/muhamedhossafy">Muhamed Ammar</a></sub>
+  <sub>Built with ❤︎ by <a href="https://github.com/muhamad-ammar-dev">Muhamed Ammar</a></sub>
 </div>
